@@ -33,6 +33,55 @@ image_blank(225, 200, col = "white") %>%
   image_composite(row2, offset = "+50+25") 
 ```
 
+---
+
+# What can you blog about?
+
+Things you enjoy!
+
+Just started learning. Edwin's blog post.
+
+---
+
+# How to get stuff done?
+
+Don't let stress spoil the _fun_.
+
+Do not get too ambitious
+
+Kasia's strategy https://kkulma.github.io/2017-12-29-end-of-year-thoughts/
+
+🚢 it!
+
+---
+
+# Store your ideas
+
+* Your usual note taking workflow: notebook, fancy app (Trello?), etc.
+
+* I have a notebook and used to have an empty GitHub repo with ideas as issues.
+
+---
+
+# Store your ideas Suzan Baert's cupboard
+
+
+```{r, echo = FALSE}
+image_read("assets/suzan_cupboard.jpg")
+```
+
+http://suzan.rbind.io/
+
+---
+
+
+https://www.johnmackintosh.com/2017-12-30-time-to-shine/
+
+https://vgpena.github.io/good-is-better-than-perfect/
+
+https://ozar.me/2015/04/is-your-blog-cheers-or-mcdonalds/
+
+https://maraaverick.rbind.io/2017/10/keeping-up-with-blogdown/
 
 ---
 
