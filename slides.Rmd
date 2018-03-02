@@ -43,7 +43,7 @@ I don't use blogdown yet!
 
 http://www.masalmon.eu/
 
-I am having a lot of fun!
+<iframe src="https://giphy.com/embed/76C4f4bfzbQqI" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/work-share-hard-76C4f4bfzbQqI">via GIPHY</a></p>
 
 ---
 
@@ -80,6 +80,8 @@ Things you've just learnt. Edwin Thoen's https://edwinth.github.io/blog-new-thin
 
 Not necessarily R code!
 
+--
+
 * A list of things that helped you learn Lorna Maria Aine in https://medium.com/@lornamariak/r-libraries-to-aid-you-learn-data-science-in-2018-30eaaf7cc050
 
 --
@@ -101,6 +103,7 @@ Read other blogs!
 
 * \#rstats on Twitter
 
+<iframe src="https://giphy.com/embed/34ZNcoaN5u4hi" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/reading-bored-wallace-and-gromit-34ZNcoaN5u4hi">via GIPHY</a></p>
 
 ---
 
@@ -110,6 +113,7 @@ Read other blogs!
 
 * If you find similar work, link it in your post.
 
+<iframe src="https://giphy.com/embed/10UeedrT5MIfPG" width="480" height="350" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dancing-happy-cartoons-10UeedrT5MIfPG">via GIPHY</a></p>
 
 ---
 
@@ -131,6 +135,8 @@ rtweet::tweet_shot("950476076215558144")
 
 * What language? English or your own? Or two of them like Daniela Vasquez https://d4tagirl.com/
 
+<iframe src="https://giphy.com/embed/3o6ozsCihBgPhJz52o" width="480" height="271" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/angrybirds-angry-birds-movie-angrybirdsmovie-3o6ozsCihBgPhJz52o">via GIPHY</a></p>
+
 ---
 
 # How to get stuff done?
@@ -151,6 +157,8 @@ Kasia's strategy: https://kkulma.github.io/2017-12-29-end-of-year-thoughts/
 
 * I have a notebook and used to have an empty GitHub repo with ideas as issues.
 
+<iframe src="https://giphy.com/embed/cur2pARDPMbEk" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cur2pARDPMbEk">via GIPHY</a></p>
+
 ---
 
 # Store your ideas: Suzan Baert's cupboard
@@ -168,7 +176,7 @@ http://suzan.rbind.io/
 
 * Title and link!
 
-* #\rstats and other hashtag if needed
+* \#rstats and other hashtag if needed
 
 * A figure or a gif!
 
@@ -203,6 +211,8 @@ Create its RSS feed
 
 * Submit it to R Bloggers? https://www.r-bloggers.com/add-your-blog/
 
+<iframe src="https://giphy.com/embed/26hitupaLP1ekljJS" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/love-animation-happy-26hitupaLP1ekljJS">via GIPHY</a></p>
+
 ---
 
 # Take advantage of R-Ladies network
@@ -213,7 +223,7 @@ Create its RSS feed
 
 ---
 
-#  The particular case of rOpenSci
+# The particular case of rOpenSci
 
 If you use one of https://ropensci.org/packages/
 
@@ -222,7 +232,7 @@ Tell us and the link will be added to rOpenSci newsletter!
 
 ---
 
-#Don't miss this offer!
+# Don't miss this offer!
 
 ```{r}
 rtweet::tweet_shot("930494182027923457")
@@ -245,6 +255,8 @@ rtweet::tweet_shot("930494182027923457")
 
 
 # Thank you!
+
+<iframe src="https://giphy.com/embed/l4KibK3JwaVo0CjDO" width="240" height="237" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/afv-funny-fail-lol-l4KibK3JwaVo0CjDO">via GIPHY</a></p>
 
 Slides created via the R package [**xaringan**](https://github.com/yihui/xaringan) by Yihui Xie with the R-Ladies theme by Alison Presmanes Hill. 💜
 
