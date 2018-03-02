@@ -37,21 +37,65 @@ image_blank(225, 200, col = "white") %>%
 
 # What can you blog about?
 
-Things you enjoy!
+Things you enjoy! 
 
-Just started learning. Edwin's blog post.
+
+
+---
+
+# What can you blog about?
+
+Things you've just learnt. Edwin Thoen's https://edwinth.github.io/blog-new-things/ says
+
+* _It forces you to study deeply_
+
+* _You understand other learners_
+
+* _You draw attention of experts_
+
+* _You train in being wrong_
+
+
+---
+
+# Explore your idea
+
+* Google it! 
+
+* If you find similar work, link it in your post.
+
+
+---
+
+# About links
+
+Other blog posts, Package docs, anything really.
+
+```{r}
+rtweet::tweet_shot("950476076215558144")
+
+```
+
+
+---
+
+# Find your own voice
+
+* I'm no writing coach but I'd say, be sincere.
+
+* What language? English or your own? Or two of them like Daniela Vasquez https://d4tagirl.com/
 
 ---
 
 # How to get stuff done?
 
-Don't let stress spoil the _fun_.
+Don't let stress and perfectionism spoil the _fun_.
 
 Do not get too ambitious
 
-Kasia's strategy https://kkulma.github.io/2017-12-29-end-of-year-thoughts/
-
 🚢 it!
+
+Kasia's strategy: https://kkulma.github.io/2017-12-29-end-of-year-thoughts/
 
 ---
 
@@ -63,7 +107,7 @@ Kasia's strategy https://kkulma.github.io/2017-12-29-end-of-year-thoughts/
 
 ---
 
-# Store your ideas Suzan Baert's cupboard
+# Store your ideas: Suzan Baert's cupboard
 
 
 ```{r, echo = FALSE}
