@@ -1,0 +1,44 @@
+---
+title: "Get on your soapbox!"
+subtitle: "Blog content and promotion"
+author: "Maëlle Salmon (`r icon::fa('twitter')` ma_salmon, `r icon::fa('github')` maelle)"
+date: "2018/03/15"
+output:
+  xaringan::moon_reader:
+    css: ["default", "rladies", "rladies-fonts"]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+
+knitr::opts_chunk$set(echo = TRUE, cache = TRUE,
+                      fig.align = 'center',
+                      fig.width = 15, message = FALSE)
+```
+
+# My place in the R community
+
+```{r}
+library("magrittr"); library("magick")
+row1 <- c(image_read("locke.png"), image_read("rweekly.png")) %>% image_append()
+row2 <- c(image_read("ropensci.png"), image_read("rladies.png")) %>% image_append()
+
+image_blank(225, 200, col = "white") %>%
+  image_composite(row1, offset = "+0+100") %>%
+  image_composite(row2, offset = "+50+25") 
+```
+
+
+---
+
+# Thank you!
+
+Slides created via the R package [**xaringan**](https://github.com/yihui/xaringan) by Yihui Xie with the R-Ladies theme by Alison Presmanes Hill. 💜
+
+
+---
