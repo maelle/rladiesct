@@ -35,11 +35,29 @@ image_blank(225, 200, col = "white") %>%
 
 ---
 
+
+
+# My blogging journey
+
+I don't use blogdown yet!
+
+http://www.masalmon.eu/
+
+I am having a lot of fun!
+
+---
+
 # What can you blog about?
 
-Things you enjoy! 
+* Your latest R obsession? Me in http://www.masalmon.eu/2018/02/22/hexcombine/
 
+--
 
+* Something _you_ like! Kasia Kulma https://kkulma.github.io/2017-12-16-star-wars-vs-star-trek-word-battle/
+
+--
+
+* Fun packages?  Mine Çetinkaya-Rundel's list  http://www2.stat.duke.edu/courses/Fall17/sta112.01/assignment/08-mini-hw.html
 
 ---
 
@@ -54,6 +72,34 @@ Things you've just learnt. Edwin Thoen's https://edwinth.github.io/blog-new-thin
 * _You draw attention of experts_
 
 * _You train in being wrong_
+
+
+---
+
+# What can you blog about?
+
+Not necessarily R code!
+
+* A list of things that helped you learn Lorna Maria Aine in https://medium.com/@lornamariak/r-libraries-to-aid-you-learn-data-science-in-2018-30eaaf7cc050
+
+--
+
+* Your experience at an event e.g. Jasmine Dumas in https://jasdumas.github.io/2017-05-28-runconf17-experience/
+
+--
+
+* Your experience at work e.g. Julia Silge in https://juliasilge.com/blog/one-year-at-stack/
+
+
+---
+
+# Find inspiration
+
+Read other blogs! 
+
+* R Weekly newsletter
+
+* \#rstats on Twitter
 
 
 ---
@@ -118,16 +164,85 @@ http://suzan.rbind.io/
 
 ---
 
+# My recipe to tweet a blog post
 
-https://www.johnmackintosh.com/2017-12-30-time-to-shine/
+* Title and link!
 
-https://vgpena.github.io/good-is-better-than-perfect/
+* #\rstats and other hashtag if needed
 
-https://ozar.me/2015/04/is-your-blog-cheers-or-mcdonalds/
+* A figure or a gif!
 
-https://maraaverick.rbind.io/2017/10/keeping-up-with-blogdown/
+* Emojis!
+
+* Tag package authors? Listen to their feed first
 
 ---
+
+# My recipe to tweet a blog post
+
+```{r}
+
+rtweet::tweet_shot("966799442430054400")
+```
+
+---
+# Add your blog to lists!
+
+* https://github.com/sellorm/awesome-blogdown
+
+* https://support.rbind.io/about/
+
+
+---
+
+# Promote your blog: RSS feed
+
+Create its RSS feed
+
+* Submit it to https://rweekly.org/submit (RSS feed or individual links!)
+
+* Submit it to R Bloggers? https://www.r-bloggers.com/add-your-blog/
+
+---
+
+# Take advantage of R-Ladies network
+
+* Ping your local chapter
+
+* Ping me/R-Ladies Global Twitter account!
+
+---
+
+#  The particular case of rOpenSci
+
+If you use one of https://ropensci.org/packages/
+
+Tell us and the link will be added to rOpenSci newsletter!
+
+
+---
+
+#Don't miss this offer!
+
+```{r}
+rtweet::tweet_shot("930494182027923457")
+
+```
+
+---
+
+# Be the blog reader you want to see
+
+* Leave comments: compliments, questions, suggestions, corrections
+
+* Share links with your network!
+
+* Link it back on your blog
+
+
+---
+
+
 
 # Thank you!
 
