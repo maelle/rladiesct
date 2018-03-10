@@ -1,7 +1,7 @@
 ---
 title: "Get on your soapbox!"
 subtitle: "Blog content and promotion"
-author: "Maëlle Salmon (`r icon::fa('twitter')` ma_salmon, `r icon::fa('github')` maelle)"
+author: "Maëlle Salmon. R-Ladies Global social master <br/> `r icon::fa('twitter')` ma_salmon, `r icon::fa('github')` maelle"
 date: "2018/03/15"
 output:
   xaringan::moon_reader:
@@ -53,6 +53,10 @@ http://www.masalmon.eu/
 
 --
 
+* Something you've just implemented? Omayma Said http://omaymas.github.io/prophet_explore/
+
+--
+
 * Something _you_ like! Kasia Kulma https://kkulma.github.io/2017-12-16-star-wars-vs-star-trek-word-battle/
 
 --
@@ -99,9 +103,9 @@ Not necessarily R code!
 
 Read other blogs! 
 
-* R Weekly newsletter
+* R Weekly newsletter https://rweekly.org/
 
-* \#rstats on Twitter
+* \#rstats on Twitter https://twitter.com/search?q=%23rstats&src=savs
 
 <iframe src="https://giphy.com/embed/34ZNcoaN5u4hi" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/reading-bored-wallace-and-gromit-34ZNcoaN5u4hi">via GIPHY</a></p>
 
@@ -121,10 +125,7 @@ Read other blogs!
 
 Other blog posts, Package docs, anything really.
 
-```{r}
-rtweet::tweet_shot("950476076215558144")
-
-```
+<blockquote class="twitter-tweet" data-lang="ca"><p lang="en" dir="ltr">My favorite thing to do when writing any blog post is linking the heck out of everything because I want every post to be a multi-directional springboard for curious people.</p>&mdash; Mikhail Popov (@bearloga) <a href="https://twitter.com/bearloga/status/950476076215558144?ref_src=twsrc%5Etfw">8 de gener de 2018</a></blockquote>
 
 
 ---
@@ -133,7 +134,7 @@ rtweet::tweet_shot("950476076215558144")
 
 * I'm no writing coach but I'd say, be sincere.
 
-* What language? English or your own? Or two of them like Daniela Vasquez https://d4tagirl.com/
+* What language? English or your own? Or both like Daniela Vásquez https://d4tagirl.com/
 
 <iframe src="https://giphy.com/embed/3o6ozsCihBgPhJz52o" width="480" height="271" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/angrybirds-angry-birds-movie-angrybirdsmovie-3o6ozsCihBgPhJz52o">via GIPHY</a></p>
 
@@ -141,13 +142,15 @@ rtweet::tweet_shot("950476076215558144")
 
 # How to get stuff done?
 
+Proofread and do your best but...
+
 Don't let stress and perfectionism spoil the _fun_.
 
 Do not get too ambitious
 
 🚢 it!
 
-Kasia's strategy: https://kkulma.github.io/2017-12-29-end-of-year-thoughts/
+Kasia Kulma's strategy: https://kkulma.github.io/2017-12-29-end-of-year-thoughts/
 
 ---
 
@@ -190,7 +193,8 @@ http://suzan.rbind.io/
 
 ```{r}
 
-rtweet::tweet_shot("966799442430054400")
+rtweet::tweet_shot("966799442430054400")%>%
+  magick::image_crop("517x300+0+90")
 ```
 
 ---
@@ -215,11 +219,11 @@ Create its RSS feed
 
 ---
 
-# Take advantage of R-Ladies network
+# Take advantage of R-Ladies networks
 
 * Ping your local chapter
 
-* Ping me/R-Ladies Global Twitter account!
+* Ping me/R-Ladies Global Twitter account! https://twitter.com/rladiesglobal
 
 ---
 
@@ -227,17 +231,15 @@ Create its RSS feed
 
 If you use one of https://ropensci.org/packages/
 
-Tell us and the link will be added to rOpenSci newsletter!
+Tell us (`r icon::fa('twitter')`` rOpenSci https://ropensci.org/contact/) and the link will be added to rOpenSci newsletter! https://ropensci.github.io/biweekly/
 
 
 ---
 
 # Don't miss this offer!
 
-```{r}
-rtweet::tweet_shot("930494182027923457")
+<blockquote class="twitter-tweet" data-lang="ca"><p lang="en" dir="ltr">&quot;if you’re early in your career as a data scientist and you start a data-related blog, tweet me a link at <a href="https://twitter.com/drob?ref_src=twsrc%5Etfw">@drob</a> and I’ll tweet about your first post&quot; 👌☄ <a href="https://t.co/FaXrgVcE0P">https://t.co/FaXrgVcE0P</a></p>&mdash; R-Ladies Global (@RLadiesGlobal) <a href="https://twitter.com/RLadiesGlobal/status/930494182027923457?ref_src=twsrc%5Etfw">14 de novembre de 2017</a></blockquote>
 
-```
 
 ---
 
@@ -255,6 +257,10 @@ rtweet::tweet_shot("930494182027923457")
 
 
 # Thank you!
+
+https://github.com/maelle/rladiesct
+
+http://www.masalmon.eu/rladiesct/slides
 
 <iframe src="https://giphy.com/embed/l4KibK3JwaVo0CjDO" width="240" height="237" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/afv-funny-fail-lol-l4KibK3JwaVo0CjDO">via GIPHY</a></p>
 
